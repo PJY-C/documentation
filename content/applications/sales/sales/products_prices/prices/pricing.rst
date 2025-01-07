@@ -10,35 +10,19 @@ quantity sold, and more) in order to apply certain prices or discounts.
 
 Pricelists suggest certain prices, but they can always be overridden on the sales order.
 
-Pricing strategy options
+Pricelists configuration
 ========================
 
-To choose a pricing strategy, first navigate to :menuselection:`Sales app --> Configuration -->
-Settings`. In the :guilabel:`Pricing` section, click the checkbox next to the :guilabel:`Pricelists`
-feature.
-
-Doing so reveals two additional options beneath it: :guilabel:`Multiple prices per product` and
-:guilabel:`Advanced price rules (discounts, formulas)`. A link labeled :guilabel:`Pricelists` also
-appears, which leads to a separate pricelists page, wherein pricelists can be created and/or
-modified.
-
-- :guilabel:`Multiple prices per product`: provides the option to set several different prices per
-  product.
-- :guilabel:`Advanced price rules (discounts, formulas)`: provides the option to create detailed
-  price rules and apply discounts, margins, and roundings.
+To enable pricelists in the Odoo **Sales** app, first navigate to :menuselection:`Sales app -->
+Configuration --> Settings`. In the :guilabel:`Pricing` section, tick the checkbox next to the
+:guilabel:`Pricelists` feature, and click :guilabel:`Save` to save all changes.
 
 .. image:: pricing/pricelist-feature-setting.png
    :align: center
    :alt: How the pricelist feature setting looks in Odoo Sales.
 
-After clicking the checkbox beside the :guilabel:`Pricelists` feature, select one of those two
-options, then click :guilabel:`Save` to save all changes.
-
-Pricelists
-==========
-
 After activating and saving the :guilabel:`Pricelists` feature, the :guilabel:`Settings` page
-reloads and, from here, either select the :guilabel:`Pricelists` link (beneath the
+reloads. From here, either select the :guilabel:`Pricelists` link (beneath the
 :guilabel:`Pricelists` feature on the :guilabel:`Settings` page), or navigate to
 :menuselection:`Sales app --> Products --> Pricelists`.
 
