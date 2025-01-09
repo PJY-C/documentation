@@ -161,7 +161,7 @@ Exchange rate journal entries
 
 To see **exchange difference journal entries**, go to :menuselection:`Accounting Dashboard -->
 Accounting --> Journals: Miscellaneous`.
-
+         
 .. image:: multi_currency/exchange-journal-currency.png
    :align: center
    :alt: Exchange rate journal entry.
